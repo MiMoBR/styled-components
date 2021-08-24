@@ -1,6 +1,8 @@
 import styled, { css } from 'styled-components'
 
 export const Section = styled.section`
+    border: var(--boxShadow);
+
     color: ${props => props.theme.Leiteria.gabriel};//theme caption
 
   /* background-color: ${props => props.active ? "#ccc" : "#fff000"}; //props status hook */

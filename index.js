@@ -10,6 +10,6 @@ const RelatedSolutions = () => {
 
 return (
         <Section active={true}>
-                <p style={{color:theme.BovDairy.italo}}>Related Solutions</p>
+                <p style={{color:theme.case1.color1}}>Related Solutions</p>
         </Section>
 )
